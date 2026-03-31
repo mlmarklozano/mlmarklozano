@@ -31,4 +31,4 @@ Cheers, Mark Lozano
 
 "Know how to learn. Then, want to learn."
 
-<a href="mrlozano.dev">View My Portfolio</a>
+<a href="[mrlozano.dev](https://mrlozano.dev/)">View My Portfolio</a>
